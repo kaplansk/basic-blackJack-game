@@ -1,5 +1,5 @@
 Blackjack Game
-live--> https://sage-empanada-7be79e.netlify.app/
+live--> https://blackjack-game-basic1.netlify.app/
 
 
 
